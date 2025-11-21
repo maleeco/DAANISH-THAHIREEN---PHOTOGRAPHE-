@@ -7,7 +7,7 @@
   
   body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #f5eedf;
+    background-color:#ffffff;
     color: #111;
   }
   
@@ -15,7 +15,7 @@
   header {
     text-align: center;
     padding: 25px 0 10px;
-    background-color: white;
+    background-color: #ffffff;
   }
   
   header h1 {
@@ -77,7 +77,7 @@
   
   /* Texte principal */
   .intro {
-    background-color: #f5eedf;
+    background-color: #fff6e0;
     padding: 40px 80px;
   }
   
@@ -92,7 +92,8 @@
     line-height: 1.6;
     color: #333;
   }
-  body {
+
+body {
   margin: 0;
   font-family: "Courier New", monospace;
   color: #333;
