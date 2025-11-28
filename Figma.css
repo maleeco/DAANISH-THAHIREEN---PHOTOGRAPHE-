@@ -268,7 +268,6 @@ background: #ffffff;
   padding: 50px;
   display: flex;
   justify-content: space-between;
-  align-items: stretch; /* ← CHANGEMENT : permet aux éléments de s'étirer */
   background: #ffffff;
   margin: 60px auto; /* ← AJOUT : centrage automatique */
   max-width: 1600px; /* ← AJOUT : largeur maximale */
