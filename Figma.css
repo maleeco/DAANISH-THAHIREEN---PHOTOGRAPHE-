@@ -95,7 +95,7 @@
 
 body {
   margin: 0;
-  font-family: "Courier New", monospace;
+  font-family: "Helvetica", monospace;
   color: #333;
 }
 
@@ -212,7 +212,7 @@ footer {
 .text-block {
   width: 55%;
   font-size: 18px;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Helvetica, sans-serif;
   line-height: 1.6;
 }
 
