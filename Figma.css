@@ -264,7 +264,7 @@ background: #ffffff;
 
 /* Grande image à gauche */
 .big-image {
-width: 55%;
+width: 90%;
 }
 
 .big-image img {
@@ -278,7 +278,7 @@ display: block;
 .mini-gallery {
 width: 38%;
 display: grid;
-grid-template-columns: repeat(3, 1fr);
+grid-template-columns: repeat(4, 1fr);
 gap: 25px; /* espace entre les mini images */
 }
 
